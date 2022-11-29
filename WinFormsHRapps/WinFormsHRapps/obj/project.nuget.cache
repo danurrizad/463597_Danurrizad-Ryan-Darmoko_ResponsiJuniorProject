@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "houPN/L9PxsbEHyC7PooqM29Ame9qW2dWVPgMsDL/bmEyUSF8gKvnF/SCUTATYq0QNBBc+VbCc9G63VtH3bXnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danurrizad Ryan D\\JuniorProject\\Repository\\WinFormsHRapps\\WinFormsHRapps\\WinFormsHRapps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danurrizad Ryan D\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Danurrizad Ryan D\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Danurrizad Ryan D\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

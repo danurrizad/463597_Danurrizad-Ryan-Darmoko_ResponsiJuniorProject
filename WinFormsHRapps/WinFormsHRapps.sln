@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsHRapps", "WinFormsHRapps\WinFormsHRapps.csproj", "{6737D822-7EC5-4EDB-AA70-71DDC2268950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6737D822-7EC5-4EDB-AA70-71DDC2268950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6737D822-7EC5-4EDB-AA70-71DDC2268950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6737D822-7EC5-4EDB-AA70-71DDC2268950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6737D822-7EC5-4EDB-AA70-71DDC2268950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56512DC6-A7C6-44B3-A72B-1DA3723EE36A}
+	EndGlobalSection
+EndGlobal
